@@ -1,7 +1,106 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="79a873ff-1a08-4f59-9913-096555e67b5c" name="Default Changelist" comment="" />
+    <list default="true" id="79a873ff-1a08-4f59-9913-096555e67b5c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/maven_compiler_plugin_2_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/maven_surefire_plugin_2_19_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/org/apache/maven/plugins/maven-resources-plugin/2.6/maven-resources-plugin-2.6.pom.lastUpdated" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chuji/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chuji/father.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chuji/godFather.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chuji/godMother.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chuji/person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chuji/pinggaione.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chuji/pinggaitwo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chuji/ren.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chuji/shuzu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chuji/son.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chuji/suanfa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/mockito/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/mockito/AccountDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/mockito/AccountLoginontroller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/chuji/StudentTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/chuji/pinggaitwoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/chuji/sonTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/chuji/suanfaTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/chuji/suanfaTesttwo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/chuji/testngzhuanyong.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/mockito/AccountLoginontrollerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/mockito/AccountLoginontrolleroneTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/META-INF/testng.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/chuji/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/chuji/father.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/chuji/godFather.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/chuji/godMother.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/chuji/person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/chuji/pinggaione.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/chuji/pinggaitwo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/chuji/ren.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/chuji/shuzu.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/chuji/son.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/chuji/suanfa.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/mockito/Account.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/mockito/AccountDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/mockito/AccountLoginontroller.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/All Test Suite/D__testng_src_test_java.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/All Test Suite/D__testng_src_test_java.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-TestSuite.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/TestSuite.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/bullet_point.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/collapseall.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/emailable-report.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/failed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/jquery-1.7.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-chuji.StudentTest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-chuji.sonTest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-chuji.suanfaTest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-chuji.suanfaTesttwo.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-chuji.testngzhuanyong.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-mockito.AccountLoginontrollerTest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/navigator-bullet.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/old/All Test Suite/D__testng_src_test_java.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/old/All Test Suite/classes.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/old/All Test Suite/groups.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/old/All Test Suite/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/old/All Test Suite/main.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/old/All Test Suite/methods-alphabetical.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/old/All Test Suite/methods-not-run.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/old/All Test Suite/methods.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/old/All Test Suite/reporter-output.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/old/All Test Suite/testng.xml.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/old/All Test Suite/toc.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/old/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/passed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/skipped.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/testng-reports.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/testng-reports.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/testng-results.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/testng.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/META-INF/testng.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/chuji/StudentTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/chuji/pinggaitwoTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/chuji/sonTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/chuji/suanfaTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/chuji/suanfaTesttwo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/chuji/testngzhuanyong.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/mockito/AccountLoginontrollerTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/mockito/AccountLoginontrolleroneTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/testng-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testng.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testng.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -63,8 +162,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="234">
-              <caret line="27" column="36" lean-forward="true" selection-start-line="27" selection-start-column="36" selection-end-line="27" selection-end-column="36" />
+            <state relative-caret-position="260">
+              <caret line="28" column="35" lean-forward="true" selection-start-line="28" selection-start-column="35" selection-end-line="28" selection-end-column="35" />
             </state>
           </provider>
         </entry>
@@ -121,6 +220,7 @@
   </component>
   <component name="Git.Settings">
     <option name="ROOT_SYNC" value="SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -195,6 +295,7 @@
     <option name="width" value="768" />
     <option name="height" value="688" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -242,6 +343,7 @@
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="TestNG" />
@@ -379,7 +481,7 @@
       <workItem from="1590566287090" duration="12883000" />
       <workItem from="1590586911462" duration="3640000" />
       <workItem from="1590590776252" duration="1082000" />
-      <workItem from="1590632114507" duration="2303000" />
+      <workItem from="1590632114507" duration="2918000" />
     </task>
     <servers />
   </component>
@@ -416,13 +518,12 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="38365000" />
+    <option name="totallyTimeSpent" value="38980000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27231467" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27231467" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -440,7 +541,7 @@
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Database Changes" order="10" />
-      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.3289689" />
       <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" weight="0.32843137" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -709,8 +810,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="27" column="36" lean-forward="true" selection-start-line="27" selection-start-column="36" selection-end-line="27" selection-end-column="36" />
+        <state relative-caret-position="260">
+          <caret line="28" column="35" lean-forward="true" selection-start-line="28" selection-start-column="35" selection-end-line="28" selection-end-column="35" />
         </state>
       </provider>
     </entry>
