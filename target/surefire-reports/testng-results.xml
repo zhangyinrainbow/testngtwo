@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="3" total="15" passed="12">
+  <reporter-output>
+  </reporter-output>
+  <suite name="All Test Suite" duration-ms="5373" started-at="2020-05-28T03:01:09Z" finished-at="2020-05-28T03:01:14Z">
+    <groups>
+      <group name="nine">
+        <method signature="testngzhuanyong.testfive()[pri:0, instance:chuji.testngzhuanyong@2d554825]" name="testfive" class="chuji.testngzhuanyong"/>
+        <method signature="testngzhuanyong.testtwo()[pri:0, instance:chuji.testngzhuanyong@2d554825]" name="testtwo" class="chuji.testngzhuanyong"/>
+      </group> <!-- nine -->
+      <group name="ten">
+        <method signature="testngzhuanyong.testfour()[pri:0, instance:chuji.testngzhuanyong@2d554825]" name="testfour" class="chuji.testngzhuanyong"/>
+        <method signature="testngzhuanyong.testone()[pri:0, instance:chuji.testngzhuanyong@2d554825]" name="testone" class="chuji.testngzhuanyong"/>
+      </group> <!-- ten -->
+    </groups>
+    <test name="D:/testng/src/test/java" duration-ms="5373" started-at="2020-05-28T03:01:09Z" finished-at="2020-05-28T03:01:14Z">
+      <class name="chuji.suanfaTesttwo">
+        <test-method status="PASS" signature="testJiafa()[pri:0, instance:chuji.suanfaTesttwo@77b52d12]" name="testJiafa" duration-ms="1" started-at="2020-05-28T03:01:09Z" finished-at="2020-05-28T03:01:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testJiafa -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:chuji.suanfaTesttwo@77b52d12]" name="setUp" is-config="true" duration-ms="0" started-at="2020-05-28T03:01:09Z" finished-at="2020-05-28T03:01:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:chuji.suanfaTesttwo@77b52d12]" name="tearDown" is-config="true" duration-ms="0" started-at="2020-05-28T03:01:09Z" finished-at="2020-05-28T03:01:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:chuji.suanfaTesttwo@77b52d12]" name="setUp" is-config="true" duration-ms="1" started-at="2020-05-28T03:01:09Z" finished-at="2020-05-28T03:01:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testChaoShi()[pri:0, instance:chuji.suanfaTesttwo@77b52d12]" name="testChaoShi" duration-ms="5038" started-at="2020-05-28T03:01:09Z" finished-at="2020-05-28T03:01:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testChaoShi -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:chuji.suanfaTesttwo@77b52d12]" name="tearDown" is-config="true" duration-ms="1" started-at="2020-05-28T03:01:14Z" finished-at="2020-05-28T03:01:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- chuji.suanfaTesttwo -->
+      <class name="chuji.suanfaTest">
+        <test-method status="PASS" signature="testJiafa()[pri:0, instance:chuji.suanfaTest@4cb2c100]" name="testJiafa" is-config="true" duration-ms="36" started-at="2020-05-28T03:01:09Z" finished-at="2020-05-28T03:01:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testJiafa -->
+        <test-method status="PASS" signature="testJiafa()[pri:0, instance:chuji.suanfaTest@4cb2c100]" name="testJiafa" duration-ms="0" started-at="2020-05-28T03:01:09Z" finished-at="2020-05-28T03:01:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testJiafa -->
+        <test-method status="PASS" signature="testChufa()[pri:0, instance:chuji.suanfaTest@4cb2c100]" name="testChufa" duration-ms="0" started-at="2020-05-28T03:01:09Z" finished-at="2020-05-28T03:01:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testChufa -->
+      </class> <!-- chuji.suanfaTest -->
+      <class name="mockito.AccountLoginontrollerTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:mockito.AccountLoginontrollerTest@68837a77]" name="setUp" is-config="true" duration-ms="197" started-at="2020-05-28T03:01:14Z" finished-at="2020-05-28T03:01:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testLogin()[pri:0, instance:mockito.AccountLoginontrollerTest@68837a77]" name="testLogin" duration-ms="41" started-at="2020-05-28T03:01:14Z" finished-at="2020-05-28T03:01:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLogin -->
+      </class> <!-- mockito.AccountLoginontrollerTest -->
+      <class name="chuji.StudentTest">
+        <test-method status="PASS" signature="testWolf()[pri:0, instance:chuji.StudentTest@6fb554cc]" name="testWolf" duration-ms="28" started-at="2020-05-28T03:01:09Z" finished-at="2020-05-28T03:01:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testWolf -->
+      </class> <!-- chuji.StudentTest -->
+      <class name="chuji.sonTest">
+        <test-method status="PASS" signature="testName()[pri:0, instance:chuji.sonTest@614c5515]" name="testName" duration-ms="4" started-at="2020-05-28T03:01:09Z" finished-at="2020-05-28T03:01:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testName -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:chuji.sonTest@614c5515]" name="setUp" is-config="true" duration-ms="0" started-at="2020-05-28T03:01:09Z" finished-at="2020-05-28T03:01:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+      </class> <!-- chuji.sonTest -->
+      <class name="chuji.testngzhuanyong">
+        <test-method status="PASS" signature="testone()[pri:0, instance:chuji.testngzhuanyong@2d554825]" name="testone" duration-ms="0" started-at="2020-05-28T03:01:14Z" finished-at="2020-05-28T03:01:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testone -->
+        <test-method status="PASS" signature="testtwo()[pri:0, instance:chuji.testngzhuanyong@2d554825]" name="testtwo" duration-ms="0" started-at="2020-05-28T03:01:14Z" finished-at="2020-05-28T03:01:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testtwo -->
+        <test-method status="PASS" signature="testfour()[pri:0, instance:chuji.testngzhuanyong@2d554825]" name="testfour" duration-ms="0" started-at="2020-05-28T03:01:14Z" finished-at="2020-05-28T03:01:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testfour -->
+        <test-method status="PASS" signature="testfive()[pri:0, instance:chuji.testngzhuanyong@2d554825]" name="testfive" duration-ms="0" started-at="2020-05-28T03:01:14Z" finished-at="2020-05-28T03:01:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testfive -->
+        <test-method status="PASS" signature="testsix()[pri:0, instance:chuji.testngzhuanyong@2d554825]" name="testsix" duration-ms="0" started-at="2020-05-28T03:01:14Z" depends-on-methods="chuji.testngzhuanyong.testfive" finished-at="2020-05-28T03:01:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testsix -->
+      </class> <!-- chuji.testngzhuanyong -->
+    </test> <!-- D:/testng/src/test/java -->
+  </suite> <!-- All Test Suite -->
+</testng-results>

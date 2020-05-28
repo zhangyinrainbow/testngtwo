@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu May 28 10:17:55 CST 2020
+@default-asiainfo-Dev-http\://ciserver\:8081/repository/bjcrm-dev/.lastUpdated=1590632275394
+http\://ciserver\:8081/repository/bjcrm-dev/.error=Could not transfer artifact org.apache.maven.plugins\:maven-resources-plugin\:pom\:2.6 from/to asiainfo-Dev (http\://ciserver\:8081/repository/bjcrm-dev/)\: Connect to ciserver\:8081 [ciserver/10.7.5.60] failed\: Connection timed out\: connect

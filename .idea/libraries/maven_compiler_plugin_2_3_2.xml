@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="maven-compiler-plugin-2.3.2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Desktop/自学/maven-compiler-plugin-2.3.2.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/自学/maven-surefire-plugin-2.19.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

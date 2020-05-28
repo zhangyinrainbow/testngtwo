@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="D:/testng/src/test/java">
+        <classes>
+            <class name="chuji.StudentTest">
+                <methods>
+                    <include name="testGetScore"/>
+                    <include name="testWolf"/>
+                </methods>
+            </class>
+            <class name="chuji.sonTest">
+                <methods>
+                    <include name="testName"/>
+                </methods>
+            </class>
+            <class name="chuji.suanfaTest">
+                <methods>
+                    <include name="testJiafa"/>
+                    <include name="testChufa"/>
+                </methods>
+            </class>
+            <class name="chuji.suanfaTesttwo">
+                <methods>
+                    <include name="testJiafa"/>
+                    <include name="testChaoShi"/>
+                </methods>
+            </class>
+            <class name="chuji.testngzhuanyong">
+                <methods>
+                    <include name="testone"/>
+                    <include name="testtwo"/>
+                    <include name="testfour"/>
+                    <include name="testfive"/>
+                    <include name="testsix"/>
+                </methods>
+            </class>
+            <class name="mockito.AccountLoginontrollerTest">
+                <methods>
+                    <include name="testLogin"/>
+                </methods>
+            </class>
+            <class name="mockito.AccountLoginontrolleroneTest">
+                <methods>
+                    <include name="testLoginSuccess"/>
+                    <include name="testLoginFail"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>
